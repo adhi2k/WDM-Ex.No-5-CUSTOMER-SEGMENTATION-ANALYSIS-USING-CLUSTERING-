@@ -1,4 +1,4 @@
-# WDM – Ex. No. 5: Customer Segmentation Analysis Using Clustering
+# WDM-Ex.No-5-CUSTOMER-SEGMENTATION-ANALYSIS-USING-CLUSTERING-
 
 ## Aim
 
