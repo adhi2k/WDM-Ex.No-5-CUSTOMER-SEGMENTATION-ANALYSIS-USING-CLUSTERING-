@@ -30,7 +30,9 @@ import sys
 if not sys.warnoptions: 
 
     warnings.simplefilter("ignore") 
-np.random.seed(42) 
+np.random.seed(42)
+```
+
 **Loading the dataset**
 data = pd.read_csv("../input/customer-personality-analysis/marketing_campaign.csv", sep="\t") 
 print("Number of datapoints:", len(data)) 
